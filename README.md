@@ -6,6 +6,7 @@ Veri Yapıları ve Algoritmalar konusunun üçüncü projesi
 
 > ## Cevap 1
 ```
-Öncelikle kökü 5 olarak belirledim. Sonrasında kökün sol tarafına kendinisinden küçük olan sayıları, sağ tarafına ise kendisinden büyük olan sayıları yazdım. Bunu yaparken de her aşamada aynı işlemi göz önünde bulundururak sayıları yerleştirdim.
+Öncelikle kökü 5 olarak belirledim. Sonrasında kökün sol tarafına kendinisinden küçük olan sayıları, 
+sağ tarafına ise kendisinden büyük olan sayıları yazdım. Bunu yaparken de her aşamada aynı işlemi göz önünde bulundururak sayıları yerleştirdim.
 
 ```
